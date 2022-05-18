@@ -8,6 +8,13 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>ao</h1>
+    @include('partials/header')
+
+    <main>
+        <h1>main</h1>
+    </main>
+
+    @include('partials/footer')
+
 </body>
 </html>
