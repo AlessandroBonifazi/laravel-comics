@@ -1,8 +1,8 @@
 <footer>
-    <!-- link -->
-    <section class="bg-primary h-100">
-      <div class="container">
-        <div class="card-container">
+  <!-- link -->
+  <section class="bg-primary h-100">
+    <div class="footer-container">
+      <div class="card-container">
           <div class="card">
             <img src="/img/buy-comics-digital-comics.png" alt="" />
             <a href="#">DIGITAL COMICS</a>
@@ -23,14 +23,14 @@
             <img src="/img/buy-dc-power-visa.svg" alt="" />
             <a href="#">DC POWER VISA</a>
           </div>
-        </div>
       </div>
-    </section>
-    <!-- info -->
-    <section>
-      <div class="container-links">
-        <div class="info">
-          <div class="link">
+    </div>
+  </section>
+  <!-- info -->
+  <section class="bg-footer">
+    <div class="container-links">
+      <div class="info">
+        <div class="link">
             <ul>
               <h3>DC COMICS</h3>
               <li>
@@ -65,9 +65,8 @@
                 <a href="#">Shop DC Collectibles</a>
               </li>
             </ul>
-          </div>
-
-          <div class="link">
+        </div>
+        <div class="link">
             <ul>
               <h3>DC</h3>
               <li>
@@ -104,9 +103,8 @@
                 <a href="#">Contact Us</a>
               </li>
             </ul>
-          </div>
-
-          <div class="link">
+        </div>
+        <div class="link">
             <ul>
               <h3>Sites</h3>
               <li>
@@ -125,13 +123,13 @@
                 <a href="#">DC Power Visa</a>
               </li>
             </ul>
-          </div>
         </div>
-        <div class="bg-logo"></div>
       </div>
-    </section>
-    <!-- social -->
-    <section class="bg-grey h-80">
+      <div class="bg-logo"></div>
+    </div>
+  </section>
+  <!-- social -->
+  <section class="bg-grey h-80">
       <div class="container-social">
         <div class="signup">
           <button>SIGN UP NOW!</button>
@@ -146,5 +144,5 @@
           <img src="../assets/footer-periscope.png" alt="periscope" /> -->
         </div>
       </div>
-    </section>
-  </footer>
+  </section>
+</footer>

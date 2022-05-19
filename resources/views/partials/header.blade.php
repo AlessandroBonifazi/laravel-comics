@@ -6,11 +6,11 @@
       <img src="/img/dc-logo.png" alt="Logo DC" />
       <nav>
         <ul>
+          @foreach ($navlinks as $navlink)
           <li>
-            @foreach ($navlinks as $navlink)
-              <a href="#">{{$navlink}}</a>
-            @endforeach
+            <a href="/">{{$navlink}}</a>
           </li>
+          @endforeach
         </ul>
       </nav>
     </div>

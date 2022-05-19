@@ -9,7 +9,7 @@
 </head>
 <body>
     @include('partials/header')
-    @include('/partials.jumbo');
+    @include('/partials.jumbo')
 
     <main>
         @yield('main')

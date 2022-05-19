@@ -1,5 +1,6 @@
 // Import
 @import 'partials/_header';
+@import 'partials/_main';
 @import 'partials/_footer';
 
 // Reset 
@@ -9,34 +10,10 @@
     box-sizing: border-box;
 }
 
-// General
 .jumbotron {
     height: 330px;
     width: 100%;
     background-image: url(/img/jumbotron.jpg);
     background-position: center top;
     background-size: cover;
-}
-
-.main-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    background-color: #1c1c1c;
-}
-
-.card {
-    text-align: center;
-    width: calc(100% / 6);
-    color: white;
-    padding: 1rem;
-
-    h3 {
-        font-size: 15px;
-    }
-
-    img {
-        height: 120px;
-    }
 }
