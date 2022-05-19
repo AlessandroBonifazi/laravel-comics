@@ -2,7 +2,7 @@
 <?php
   $navlinks = ['CHARACTERS', 'COMICS', 'MOVIES', 'TV', 'GAMES', 'COLLECTIBLES', 'VIDEOS', 'FANS', 'NEWS', 'SHOP'];
 ?>
-    <div class="container">
+    <div class="header-container">
       <img src="/img/dc-logo.png" alt="Logo DC" />
       <nav>
         <ul>

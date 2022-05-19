@@ -1,5 +1,9 @@
 @extends ('layouts.app')
-
+@section('title')
+    DC Comics
+@endsection
 @section('main')
-    var_dump($data);
+<div class="main-container">
+    @include('partials.comics')
+</div>
 @endsection

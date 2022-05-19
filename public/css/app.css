@@ -5,36 +5,36 @@ header {
 header .header-container {
   height: 80px;
   width: 80%;
-  margin: 0 auto;
+  margin: 10px auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-header nav {
+header .header-container nav {
   height: 100%;
   display: flex;
   align-items: center;
 }
 
-header nav ul {
+header .header-container nav ul {
   display: flex;
   align-items: center;
 }
 
-header nav li {
+header .header-container nav li {
   margin: 0 8px;
   list-style-type: none;
 }
 
-header nav a {
+header .header-container nav a {
   text-decoration: none;
   color: black;
   font-weight: bold;
   font-size: 19px;
 }
 
-header nav img {
+header .header-container img {
   height: 60px;
 }
 
@@ -63,6 +63,7 @@ header nav img {
 }
 
 footer {
+  background-image: url(/img/footer-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -70,6 +71,7 @@ footer {
 }
 
 footer .bg-logo {
+  background-image: url(/img/dc-logo-bg.png);
   background-position: center;
   background-repeat: no-repeat;
   width: 50%;
@@ -180,5 +182,36 @@ footer button {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
+}
+
+.jumbotron {
+  height: 330px;
+  width: 100%;
+  background-image: url(/img/jumbotron.jpg);
+  background-position: center top;
+  background-size: cover;
+}
+
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #1c1c1c;
+}
+
+.card {
+  text-align: center;
+  width: 16.6666666667%;
+  color: white;
+  padding: 1rem;
+}
+
+.card h3 {
+  font-size: 15px;
+}
+
+.card img {
+  height: 120px;
 }
 
