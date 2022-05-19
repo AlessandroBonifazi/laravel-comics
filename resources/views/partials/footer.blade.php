@@ -4,23 +4,23 @@
       <div class="container">
         <div class="card-container">
           <div class="card">
-            <img src="../assets/buy-comics-digital-comics.png" alt="" />
+            <!-- <img src="../assets/buy-comics-digital-comics.png" alt="" /> -->
             <a href="#">DIGITAL COMICS</a>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-merchandise.png" alt="" />
+            <!-- <img src="../assets/buy-comics-merchandise.png" alt="" /> -->
             <a href="#">DC MERCHANDISE</a>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-subscriptions.png" alt="" />
+            <!-- <img src="../assets/buy-comics-subscriptions.png" alt="" /> -->
             <a href="#">SUBSCRIPTIONS</a>
           </div>
           <div class="card">
-            <img src="../assets/buy-comics-shop-locator.png" alt="" />
+            <!-- <img src="../assets/buy-comics-shop-locator.png" alt="" /> -->
             <a href="#">COMIC SHOP LOCATOR</a>
           </div>
           <div class="card">
-            <img src="../assets/buy-dc-power-visa.svg" alt="" />
+            <!-- <img src="../assets/buy-dc-power-visa.svg" alt="" /> -->
             <a href="#">DC POWER VISA</a>
           </div>
         </div>
@@ -139,11 +139,11 @@
 
         <div class="social">
           <h3>FOLLOW US</h3>
-          <img src="../assets/footer-facebook.png" alt="faceBook" />
+          <!-- <img src="../assets/footer-facebook.png" alt="faceBook" />
           <img src="../assets/footer-twitter.png" alt="twitter" />
           <img src="../assets/footer-youtube.png" alt="youtube" />
           <img src="../assets/footer-pinterest.png" alt="pinterest" />
-          <img src="../assets/footer-periscope.png" alt="periscope" />
+          <img src="../assets/footer-periscope.png" alt="periscope" /> -->
         </div>
       </div>
     </section>
